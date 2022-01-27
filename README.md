@@ -1,6 +1,6 @@
 # Portal-HCMUS-Fetching-Course-Grade-PyQT-Desktop-App
 
-SET UP:
+Instructions:
 
 	1. Run pip install -r requirements.txt
 	2. Run create_key.py to store your studentID & password (This key will be saved in credential.key)
@@ -9,3 +9,4 @@ SET UP:
   
  
  
+![image](https://user-images.githubusercontent.com/64053044/151317114-182e51e5-2357-4ca0-81be-d39ff19304f0.png)
